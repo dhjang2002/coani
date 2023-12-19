@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "846572010524",
+    "project_id": "coani-a5633",
+    "storage_bucket": "coani-a5633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846572010524:android:451154b610e91fa7c273d9",
+        "android_client_info": {
+          "package_name": "com.smdt.coanie.coani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846572010524-27rbn43k0ouhn6nt22kb91ccqe98id9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuhT6Wb3-rWSsMohneEOE8n8o_S5Y8arI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846572010524-27rbn43k0ouhn6nt22kb91ccqe98id9l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846572010524-1s5td94nt4luq8tmc11bsvpndanjjqpk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smdt.coanie.coani"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
